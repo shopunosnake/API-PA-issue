@@ -50,4 +50,6 @@ Authenticates with the Amazon PA API and makes a search request.
 Retrieves the required product details.
 Inserts this data into the specified Google Sheet.
 Handles potential errors and edge cases.
-Below is the partial code I've been working with (with personal information removed):
+Below is the partial code I've been working with (with personal information removed)
+
+Despite following the documentation, I'm encountering persistent issues.
